@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "iptv-youtube-proxy",
+  "builds": [
+    {
+      "src": "api/*.js",
+      "use": "@vercel/node"
+    }
+  ]
+}
